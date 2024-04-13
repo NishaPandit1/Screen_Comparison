@@ -1,0 +1,19 @@
+{
+  "envs": ["staging", "production"],
+  "urls": [
+    
+    {
+      "pageName": "homePage",
+      "staging":"https://staging.avihtech.com/",
+      "production": "https://avihtech.com/"
+
+    },
+  
+    {
+      "pageName": "descriptionPage",
+      "staging":"https://staging.avihtech.com/event/index/26769/Party",
+      "production": "https://avihtech.com/event/index/26769/Party"
+
+    }
+]
+}
